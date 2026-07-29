@@ -11,6 +11,7 @@ copy of a birth certificate). Each variant differs from `v0` in exactly one tech
 | [v3](https://rmorado.github.io/s3a/v3/) | service details only inside a linked PDF |
 | [v4](https://rmorado.github.io/s3a/v4/) | application entry behind an unlabeled navigation chain |
 | [v5](https://rmorado.github.io/s3a/v5/) | identical to v0; disallowed for named AI retrievers |
+| [v6](https://rmorado.github.io/s3a/v6/) | all four content degradations at once |
 
 **Tarnmose does not exist and every fact here is invented.** These pages are research material for
 the LAS (LLM Access Score) project, which measures how AI systems reach, read and operate
