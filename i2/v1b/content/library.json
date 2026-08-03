@@ -1,0 +1,3 @@
+{
+ "html": "<header class=\"site-header\">\n  <h1>Municipality of Tarnmose</h1>\n  <p>Official town website</p>\n</header>\n<nav class=\"site-nav\"><a href=\"index.html\">Home</a><a href=\"services.html\">Services</a><a href=\"birth-certificate.html\">Birth certificate copies</a><a href=\"news.html\">News</a><a href=\"contact.html\">Contact</a><a href=\"about.html\">About this site</a></nav>\n<main>\n  <h2>Municipal library</h2>\n  <p>The Tarnmose library lends books, audiobooks and periodicals to residents.</p>\n  <dl class=\"facts\">\n    <dt>Replacement card</dt><dd>\u20ac4.00</dd>\n    <dt>Loan period</dt><dd>Four weeks, renewable twice</dd>\n  </dl>\n  <p>Membership is free for residents. The reading room is open to visitors without a card.</p>\n</main>\n"
+}
